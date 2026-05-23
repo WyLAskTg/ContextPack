@@ -1,6 +1,6 @@
 {
   "name": "context-pack",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Local-first context pack generator for AI coding agents.",
   "license": "MIT",
   "type": "module",
